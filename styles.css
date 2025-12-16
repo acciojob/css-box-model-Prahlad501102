@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+.box {
+    box-sizing: border-box; 
+    width: 500px;
+    background-color: lightblue;
+    border: 12px solid blue;
+    padding: 17px;
+    margin: 20px;
+    text-align: center; 
+    color: black;
+    font-family: sans-serif;
+}
